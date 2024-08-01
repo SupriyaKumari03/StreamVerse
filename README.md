@@ -14,8 +14,8 @@ React: For building the user interface components.
 React Router: For handling the navigation within the application.
 Axios: For making HTTP requests to fetch video data from the YouTube API.
 CSS/SCSS: For styling the application to ensure a responsive and attractive design.
-2.Backend:
 
+2.Backend:
 YouTube Data API: For fetching video data, including search results and category-specific videos.
 # Project Architecture
 Component-Based Architecture: Utilizes reusable components such as VideoPlayer, VideoList, SearchBar, and CategoryFilter.
